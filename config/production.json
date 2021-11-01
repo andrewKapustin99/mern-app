@@ -1,0 +1,6 @@
+{
+    "port": 5001,
+    "jwtSecret": "fn32iugf392hf345hg3805nj00kkvrl91",
+    "mongoUri": "mongodb+srv://Andrew:Napoleon1@cluster0.xd9ij.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5001"
+}
